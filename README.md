@@ -3,7 +3,7 @@
 The purpose of this tool is to find and visualize the most optimal position for the maximum yield of a particular ore/resource using the [Ore Drilling Plants](https://ftb.fandom.com/wiki/Ore_Drilling_Plant).
 This tool is used in conjuction with [GTVeinInfo](https://github.com/Techlone/GTVeinInfo) for the [GregTech](https://ftb.fandom.com/wiki/GregTech) modification of [Minecraft](https://www.minecraft.net/).
 
-The following are the parameters of a specific [Ore Drilling Plant](https://ftb.fandom.com/wiki/Ore_Drilling_Plant) tiers (see draw_map.py#L70):
+The following are the parameters of a specific [Ore Drilling Plant](https://ftb.fandom.com/wiki/Ore_Drilling_Plant) tiers (see [draw_map.py](draw_map.py#L70)):
 - Ore Drilling Plant I   - radius is 48 blocks
 - Ore Drilling Plant II  - radius is 64 blocks
 - Ore Drilling Plant III - radius is 96 blocks
